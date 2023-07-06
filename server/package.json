@@ -1,0 +1,16 @@
+{
+  "name": "handson1",
+  "version": "1.0.0",
+  "description": "This is handson 1",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "vikas patil",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
